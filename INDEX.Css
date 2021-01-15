@@ -9,6 +9,7 @@ body {
     background-color: rgb(25 161 172);
     height: 100%;
     font-family:'Kumbh Sans';
+    font-family:400;
     background-image: url(bg-pattern-top.svg),url(bg-pattern-bottom.svg);
     background-repeat: no-repeat, no-repeat;
     background-position-x: -340px, 700px;
